@@ -54,7 +54,7 @@ act.png)
 
 ## Links
 
-- [GitHub Repository](https://github.com/Vishalrathore95/My-Portfolio)
+- [GitHub Repository](https://github.com/Vishalrathore95/My-portfolio)
 - [Portfolio Website](https://your-website-url.com)
 
 ## Technologies Used
