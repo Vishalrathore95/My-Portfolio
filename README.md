@@ -42,15 +42,20 @@ The website is structured as follows:
 
 ## Screenshots
 
-![Home Section]()![Screenshot 2024-04-11 111727](https://github.com/Vishalrathore95/My-Portfolio/assets/138272471/ce077f9c-3673-4e75-9426-2f2466f2e6df)
+![Home Section]
+![Screenshot 2024-04-11 111727](https://github.com/Vishalrathore95/My-portfolio/assets/138272471/89218045-4011-4f35-879e-cf152aea4ef4)
 
-![About Section](screenshots/about.png![Screenshot 2024-04-11 111759](https://github.com/Vishalrathore95/My-Portfolio/assets/138272471/22d0b320-fb63-4f3a-acd6-6bd47865b8ca)
-)
-![Portfolio Section](![Screenshot 2024-04-11 111818](https://github.com/Vishalrathore95/My-Portfolio/assets/138272471/5344d42e-bf7e-4be6-9c5d-1a15ed80af36)
-screenshots/portfolio.png)
-![Contact Section](screenshots/cont![Screenshot 2024-04-11 111840](https://github.com/Vishalrathore95/My-Portfolio/assets/138272471/b3ba3b07-3566-4ce9-9b58-db4776d195c5)
-act.png)
-![Screenshot 2024-04-11 111855](https://github.com/Vishalrathore95/My-Portfolio/assets/138272471/1e3615c0-805b-49cb-bfab-12ea3ed3f298)
+![About Section](
+)![Screenshot 2024-04-11 111759](https://github.com/Vishalrathore95/My-portfolio/assets/138272471/1c740be8-daee-4419-9c06-453c9f3e4dfe)
+
+![Portfolio Section](![Screenshot 2024-04-11 111818](https://github.com/Vishalrathore95/My-portfolio/assets/138272471/3ccc685c-6cb6-4c41-819e-869bceffda38)
+
+
+![Contact Section]
+act.png)![Screenshot 2024-04-11 111840](https://github.com/Vishalrathore95/My-portfolio/assets/138272471/7899fd7c-c749-4e49-be81-c6cbfa75c614)
+
+8)
+![Screenshot 2024-04-11 111855](https://github.com/Vishalrathore95/My-portfolio/assets/138272471/b1d888ed-cfd5-4372-b4f4-ed5807465440)
 
 ## Links
 
